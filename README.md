@@ -6,3 +6,4 @@
 *   Yuri Saray Garcia Osorio
 *   Jairo David Ozuna Romero
 
+![Logo](https://raw.githubusercontent.com/JuanBassa/TrabajoFinalAyP/main/imagenes/bb-removebg-preview.png)
