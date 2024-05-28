@@ -7,3 +7,6 @@
 *   Jairo David Ozuna Romero
 
 ![Logo](https://raw.githubusercontent.com/JuanBassa/TrabajoFinalAyP/main/imagenes/bb-removebg-preview.png)
+
+### **Licencia**
+La licencia que aplica para el siguiente repositorio es MIT
