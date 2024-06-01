@@ -1,0 +1,27 @@
+2024-06-01 12:57:07,236 - root - INFO - El directorio actual de trabajo es: 
+	--> C:\Users\lamad\Desktop\Algoritmia\SemesTrack\Script 
+Esta carpeta contendrá los archivos del trabajo final
+2024-06-01 12:57:07,237 - root - INFO - El programa fue ejecutado por lamad en el siguiente sistema operativo: Windows-10-10.0.19045-SP0 y el la siguiente plataforma: 3.11.7 | packaged by Anaconda, Inc. | (main, Dec 15 2023, 18:05:47) [MSC v.1916 64 bit (AMD64)]
+2024-06-01 12:57:07,237 - root - INFO - El 1 procedimiento por SemesTrack fue: Crear encabezado
+2024-06-01 12:57:07,237 - root - INFO - El procedimiento 1 demoro: 0.003086599987000227 segundos
+2024-06-01 12:57:07,237 - root - INFO - Procedimiento 2: Creando codigos de materias
+2024-06-01 12:57:07,238 - root - INFO - El procedimiento 2 demoro: 0.00020629999926313758 segundos
+2024-06-01 12:57:07,238 - root - INFO - Procedimiento 3: Creando horas de trabajo docente
+2024-06-01 12:57:07,238 - root - INFO - El procedimiento 3 demoro: 0.00013110000872984529 segundos
+2024-06-01 12:57:07,238 - root - INFO - Procedimiento 4: Creando horas de trabajo independiente
+2024-06-01 12:57:07,238 - root - INFO - El procedimiento 4 demoro: 0.00012690003495663404 segundos
+2024-06-01 12:57:07,238 - root - INFO - Procedimiento 5: Calculando la cantidad de estudiantes por semestre
+2024-06-01 12:57:07,238 - root - INFO - El procedimiento 5 demoro: 0.00010720000136643648 segundos
+2024-06-01 12:57:07,239 - root - INFO - Procedimiento 6: Calculando el total de cursos asignados por semestre
+2024-06-01 12:57:07,239 - root - INFO - El procedimiento 6 demoro: 0.0001365999924018979 segundos
+2024-06-01 12:57:07,239 - root - INFO - Procedimiento 7: Creando los codigos de curso por semestre
+2024-06-01 12:57:07,239 - root - INFO - El procedimiento 7 demoro: 0.0005123000009916723 segundos
+2024-06-01 12:57:07,240 - root - INFO - Procedimiento 8: Creando listas para cada materia por semestre
+2024-06-01 12:57:07,248 - root - INFO - El procedimiento 8 demoro: 0.008484699996188283 segundos
+2024-06-01 12:57:07,248 - root - INFO - Procedimiento 9: Exportando listas a excel y a su respectiva carpeta
+2024-06-01 12:57:16,134 - root - INFO - El procedimiento 9 demoro: 8.88461589999497 segundos
+2024-06-01 12:57:16,134 - root - INFO - Procedimiento 10: Exportando listas a csv y a su respectiva carpeta
+2024-06-01 12:57:16,844 - root - INFO - El procedimiento 10 demoro: 0.7098361999960616 segundos
+2024-06-01 12:57:16,844 - root - INFO - Procedimiento 11: Exportando documento docente
+2024-06-01 12:57:17,225 - root - INFO - Procedimiento 12: Finalizado el proceso, tuvo 12 procedimientos
+2024-06-01 12:57:17,226 - root - INFO - El procedimiento 12 demoro: 0.381809999991674 segundos
